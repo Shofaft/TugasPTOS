@@ -1,4 +1,4 @@
-// Shofa Farhah (220102080)
+// Shofa Farhah Tanzilah (220102080)
 
 #include <iostream>
 using namespace std;
